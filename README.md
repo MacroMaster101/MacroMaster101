@@ -29,8 +29,6 @@ name: Kavisha Liyanage
 located_in: Pasyala, Sri Lanka 🇱🇰
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: BSc (Hons) in Information Technology — Specializing in AI
-affiliations:
-  - IEEE Student Member (2026 — Present)
 current_focus:
   - 🧠 Machine Learning & AI-Driven Applications
   - 🌐 Full-Stack Web & Mobile Development
