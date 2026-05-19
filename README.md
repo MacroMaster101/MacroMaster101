@@ -95,106 +95,82 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <table align="center">
 <tr>
 <td width="50%" valign="top">
-
-### 🌍 [TravelGenie — Mobile App](https://github.com/MacroMaster101/Travel_Genie_App)
-Full-stack mobile travel planning app built with **React Native, Node.js, Express & MongoDB**. Plan trips, manage expenses, explore places & hotels.
-
+<p><b>🌍 <a href="https://github.com/MacroMaster101/Travel_Genie_App">TravelGenie — Mobile App</a></b></p>
+<p>Full-stack mobile travel planning app built with <b>React Native, Node.js, Express & MongoDB</b>. Plan trips, manage expenses, explore places & hotels.</p>
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
-
 </td>
 <td width="50%" valign="top">
-
-### 🗺️ [TravelGenie — Web Platform](https://github.com/MacroMaster101/Travel_Genie)
-AI-powered travel planning platform with personalized recommendations, itineraries, hotel suggestions & expense management.
-
+<p><b>🗺️ <a href="https://github.com/MacroMaster101/Travel_Genie">TravelGenie — Web Platform</a></b></p>
+<p>AI-powered travel planning platform with personalized recommendations, itineraries, hotel suggestions & expense management.</p>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🎵 [Discord Music Bot](https://github.com/MacroMaster101/discord_music_bot)
-Feature-rich Discord music bot with YouTube playback, queue management, loop/shuffle, volume control & 24/7 cloud deployment.
-
+<p><b>🎵 <a href="https://github.com/MacroMaster101/discord_music_bot">Discord Music Bot</a></b></p>
+<p>Feature-rich Discord music bot with YouTube playback, queue management, loop/shuffle, volume control & 24/7 cloud deployment.</p>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fly.io-7B36ED?style=flat-square&logo=flydotio&logoColor=white"/>
 </p>
-
 </td>
 <td width="50%" valign="top">
-
-### 🦟 [DengueRisk — AI Prediction](https://github.com/MacroMaster101/DengueRisk)
-ML model classifying dengue risk levels in Sri Lankan districts using weekly case data & weather features for early outbreak prediction.
-
+<p><b>🦟 <a href="https://github.com/MacroMaster101/DengueRisk">DengueRisk — AI Prediction</a></b></p>
+<p>ML model classifying dengue risk levels in Sri Lankan districts using weekly case data & weather features for early outbreak prediction.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🗳️ [Campus E-Voting System](https://github.com/MacroMaster101/web-voting-system)
-Secure Spring Boot voting system for academic award nominations with role-based access, real-time monitoring & email notifications.
-
+<p><b>🗳️ <a href="https://github.com/MacroMaster101/web-voting-system">Campus E-Voting System</a></b></p>
+<p>Secure Spring Boot voting system for academic award nominations with role-based access, real-time monitoring & email notifications.</p>
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
-
 </td>
 <td width="50%" valign="top">
-
-### 💼 [Portfolio Website V2](https://github.com/MacroMaster101/kavisha_portfolio-V2)
-Modern portfolio with React 19, TypeScript, Vite & Tailwind CSS. Live GitHub API feed, Framer Motion animations, dark mode.
-
+<p><b>💼 <a href="https://github.com/MacroMaster101/kavisha_portfolio-V2">Portfolio Website V2</a></b></p>
+<p>Modern portfolio with React 19, TypeScript, Vite & Tailwind CSS. Live GitHub API feed, Framer Motion animations, dark mode.</p>
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 📺 [YouTube Status Bot](https://github.com/MacroMaster101/discord-youtube-status-bot)
-Python Discord bot displaying YouTube channel subscriber counts as live bot status with auto-refresh.
-
+<p><b>📺 <a href="https://github.com/MacroMaster101/discord-youtube-status-bot">YouTube Status Bot</a></b></p>
+<p>Python Discord bot displaying YouTube channel subscriber counts as live bot status with auto-refresh.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 </p>
-
 </td>
 <td width="50%" valign="top">
-
-### 🎨 [Portfolio Website V1](https://github.com/MacroMaster101/kavisha_portfolio)
-Original portfolio built with pure HTML, CSS & JavaScript. Showcases skills, projects, education & contact details.
-
+<p><b>🎨 <a href="https://github.com/MacroMaster101/kavisha_portfolio">Portfolio Website V1</a></b></p>
+<p>Original portfolio built with pure HTML, CSS & JavaScript. Showcases skills, projects, education & contact details.</p>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
-
 </td>
 </tr>
 </table>
