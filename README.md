@@ -94,41 +94,112 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- FEATURED PROJECTS SECTION -->
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/MacroMaster101/Travel_Genie_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=Travel_Genie_App&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/MacroMaster101/Travel_Genie">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=Travel_Genie&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
+### 🌍 [TravelGenie — Mobile App](https://github.com/MacroMaster101/Travel_Genie_App)
+Full-stack mobile travel planning app built with **React Native, Node.js, Express & MongoDB**. Plan trips, manage expenses, explore places & hotels.
 
-<a href="https://github.com/MacroMaster101/discord_music_bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=discord_music_bot&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/MacroMaster101/DengueRisk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=DengueRisk&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-<a href="https://github.com/MacroMaster101/web-voting-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=web-voting-system&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/MacroMaster101/kavisha_portfolio-V2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=kavisha_portfolio-V2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/MacroMaster101/discord-youtube-status-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=discord-youtube-status-bot&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-&nbsp;
-<a href="https://github.com/MacroMaster101/kavisha_portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MacroMaster101&repo=kavisha_portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
+### 🗺️ [TravelGenie — Web Platform](https://github.com/MacroMaster101/Travel_Genie)
+AI-powered travel planning platform with personalized recommendations, itineraries, hotel suggestions & expense management.
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 [Discord Music Bot](https://github.com/MacroMaster101/discord_music_bot)
+Feature-rich Discord music bot with YouTube playback, queue management, loop/shuffle, volume control & 24/7 cloud deployment.
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fly.io-7B36ED?style=flat-square&logo=flydotio&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🦟 [DengueRisk — AI Prediction](https://github.com/MacroMaster101/DengueRisk)
+ML model classifying dengue risk levels in Sri Lankan districts using weekly case data & weather features for early outbreak prediction.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗳️ [Campus E-Voting System](https://github.com/MacroMaster101/web-voting-system)
+Secure Spring Boot voting system for academic award nominations with role-based access, real-time monitoring & email notifications.
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [Portfolio Website V2](https://github.com/MacroMaster101/kavisha_portfolio-V2)
+Modern portfolio with React 19, TypeScript, Vite & Tailwind CSS. Live GitHub API feed, Framer Motion animations, dark mode.
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📺 [YouTube Status Bot](https://github.com/MacroMaster101/discord-youtube-status-bot)
+Python Discord bot displaying YouTube channel subscriber counts as live bot status with auto-refresh.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Portfolio Website V1](https://github.com/MacroMaster101/kavisha_portfolio)
+Original portfolio built with pure HTML, CSS & JavaScript. Showcases skills, projects, education & contact details.
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,14 +209,14 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <div align="center">
 
 <a href="https://github.com/MacroMaster101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacroMaster101&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacroMaster101&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&hide_border=false&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MacroMaster101&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MacroMaster101&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&hide_border=false&langs_count=8" />
 </a>
 
 <br/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MacroMaster101&theme=dark&background=0d1117&border=30363d&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=6e40c9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=MacroMaster101&theme=dark&background=0d1117&border=30363d&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=6e40c9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
