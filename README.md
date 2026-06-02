@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6e40c9,70:bc4cff,100:00f0ff&height=240&section=header&text=Kavisha%20Liyanage&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20SLIIT%20Undergraduate&descSize=15&descColor=c9d1d9&descAlignY=54&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1c1230,100:6e40c9&height=240&section=header&text=Kavisha%20Liyanage&fontSize=44&fontColor=e6edf3&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20SLIIT%20Undergraduate&descSize=15&descColor=8b949e&descAlignY=54&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=%E2%9A%A1+Building+things+that+make+a+difference;%F0%9F%A4%96+Specializing+in+AI+%26+Machine+Learning;%F0%9F%9A%80+Crafting+Full-Stack+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=8B6FD6&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=%E2%9A%A1+Building+things+that+make+a+difference;%F0%9F%A4%96+Specializing+in+AI+%26+Machine+Learning;%F0%9F%9A%80+Crafting+Full-Stack+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=00f0ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=followers">
-  <img src="https://img.shields.io/github/followers/MacroMaster101?style=for-the-badge&color=bc4cff&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/MacroMaster101?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
@@ -23,8 +23,8 @@
 
 </div>
 
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
@@ -43,7 +43,7 @@ languages: ["Sinhala", "English"]
 fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- TECH STACK SECTION -->
 ## ⚡ &nbsp;Tech Arsenal
@@ -96,7 +96,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- FEATURED PROJECTS SECTION -->
 ## 🌟 &nbsp;Featured Projects
@@ -184,7 +184,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- AUTO-UPDATED LATEST ACTIVITY SECTION -->
 ## 🔄 &nbsp;Latest Activity
@@ -202,7 +202,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 <!-- RECENT-REPOS:END -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- MORE PROJECTS SECTION -->
 ## 📦 &nbsp;More Projects
@@ -211,7 +211,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 - 📺 **[YouTube Status Bot](https://github.com/MacroMaster101/discord-youtube-status-bot)** — Discord bot monitoring YouTube channels for uploads & live stats, managed via a glassmorphic web dashboard.
 - 🎨 **[Portfolio V1](https://github.com/MacroMaster101/kavisha_portfolio)** — Original single-page portfolio in pure HTML, CSS & JavaScript with a dark glassmorphism theme.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- GITHUB STATS SECTION -->
 ## 📊 &nbsp;GitHub Analytics
@@ -219,34 +219,34 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <div align="center">
 
 <a href="https://github.com/MacroMaster101">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MacroMaster101&show_icons=true&theme=react&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=bc4cff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MacroMaster101&layout=compact&theme=react&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MacroMaster101&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=8b6fd6&icon_color=8b6fd6&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MacroMaster101&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=8b6fd6&text_color=8b949e&hide_border=false&langs_count=8" />
 </a>
 
 <br/>
 
 <!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=MacroMaster101&theme=dark&background=0d1117&border=00f0ff&stroke=bc4cff&ring=00f0ff&fire=bc4cff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=MacroMaster101&theme=dark&background=0d1117&border=30363d&stroke=6e40c9&ring=8b6fd6&fire=8b6fd6&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b6fd6&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- ACTIVITY GRAPH -->
 ## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MacroMaster101&bg_color=0d1117&color=00f0ff&line=bc4cff&point=ffffff&area_color=6e40c9&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MacroMaster101&bg_color=0d1117&color=8b6fd6&line=6e40c9&point=e6edf3&area_color=6e40c9&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MacroMaster101/MacroMaster101/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,50:bc4cff,100:00f0ff&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=2&width=100%" width="100%"/>
 
 <!-- CONNECT SECTION -->
 ## 🤝 &nbsp;Let's Connect
@@ -271,7 +271,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Random Dev Quote"/>
 
 </div>
 
@@ -281,6 +281,6 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 ### 💜 Thanks for visiting — let's build something amazing together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,30:bc4cff,70:6e40c9,100:0d1117&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,40:1c1230,100:0d1117&height=130&section=footer" width="100%"/>
 
 </div>
