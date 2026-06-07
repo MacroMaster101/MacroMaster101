@@ -29,7 +29,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kavisha-liyanage04/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6e40c9?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 </div>
