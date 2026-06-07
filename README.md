@@ -10,15 +10,26 @@
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
+<!-- PROFILE VIEWS & SOCIAL LINKS -->
 <img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=followers">
-  <img src="https://img.shields.io/github/followers/MacroMaster101?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/badge/FOLLOWERS-View-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MacroMaster101&query=public_repos&style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=git&logoColor=white&label=REPOS" alt="Repos"/>
+  <img src="https://img.shields.io/badge/REPOS-View-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/>
+</a>
+
+<br/>
+
+<!-- PORTFOLIO & LINKEDIN -->
+<a href="https://kavisha.online">
+  <img src="https://img.shields.io/badge/Portfolio-kavisha.online-6e40c9?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kavisha-liyanage04/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -257,7 +268,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/kavisha-liyanage04">
+<a href="https://www.linkedin.com/in/kavisha-liyanage04/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -267,6 +278,10 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 &nbsp;
 <a href="https://www.facebook.com/kavisha.lakshan11/">
   <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://kavisha.online">
+  <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
