@@ -14,11 +14,11 @@
 <img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=followers">
-  <img src="https://img.shields.io/badge/FOLLOWERS-View-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
+  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-1-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END -->
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-View-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/>
+  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-15-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END -->
 </a>
 
 <br/>
