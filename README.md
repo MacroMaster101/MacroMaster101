@@ -18,7 +18,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
-  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-15-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END -->
+  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-16-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Repos"/><!-- REPOS-BADGE:END -->
 </a>
 
 <br/>
@@ -205,8 +205,8 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
-| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
 | [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun Sri Lankan gaming crew, built with Next.js, Supabase, Prisma, YouTube… |
+| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
 | [**discord_music_bot**](https://github.com/MacroMaster101/discord_music_bot) | 🟨 JavaScript | 🎵 A self-hostable Discord music bot powered by yt-dlp — YouTube search & URL playback, interactive button… |
 | [**discord-j4fn-server-bot**](https://github.com/MacroMaster101/discord-j4fn-server-bot) | 🌐 HTML | A feature-rich Discord bot for gaming servers — full moderation suite (kick, ban, mute, warn, purge, lock),… |
 | [**discord-youtube-status-bot**](https://github.com/MacroMaster101/discord-youtube-status-bot) | 🌐 HTML | A premium Discord companion bot that monitors YouTube channels for live uploads and real-time statistics, m… |
