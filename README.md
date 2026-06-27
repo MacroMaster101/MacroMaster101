@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=followers">
-  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-1-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END -->
+  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-2-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/><!-- FOLLOWERS-BADGE:END -->
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
