@@ -205,10 +205,10 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
-| [**Stremio_Discord_Rich_Presence**](https://github.com/MacroMaster101/Stremio_Discord_Rich_Presence) | 🟨 JavaScript | 🍿 Lightweight Windows tray app that shows what you're watching on Stremio as Discord Rich Presence — with… |
 | [**Vero_Saloon_Website**](https://github.com/MacroMaster101/Vero_Saloon_Website) | 🔷 TypeScript | Full-stack salon booking platform for Vero Salon — Next.js 16, TypeScript, Supabase & Tailwind v4. Online b… |
-| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
 | [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun Sri Lankan gaming crew, built with Next.js, Supabase, Prisma, YouTube… |
+| [**Stremio_Discord_Rich_Presence**](https://github.com/MacroMaster101/Stremio_Discord_Rich_Presence) | 🟨 JavaScript | 🍿 Lightweight Windows tray app that shows what you're watching on Stremio as Discord Rich Presence — with… |
+| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
 | [**discord_music_bot**](https://github.com/MacroMaster101/discord_music_bot) | 🟨 JavaScript | 🎵 A self-hostable Discord music bot powered by yt-dlp — YouTube search & URL playback, interactive button… |
 
 <!-- RECENT-REPOS:END -->
