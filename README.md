@@ -205,7 +205,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
-| [**weekly-report-dashboard**](https://github.com/MacroMaster101/weekly-report-dashboard) | • | A full-stack weekly report management system built with Next.js, Prisma, and PostgreSQL. It allows team mem… |
+| [**weekly-report-dashboard**](https://github.com/MacroMaster101/weekly-report-dashboard) | 🔷 TypeScript | A full-stack weekly report management system built with Next.js, Prisma, and PostgreSQL. It allows team mem… |
 | [**Vero_Saloon_Website**](https://github.com/MacroMaster101/Vero_Saloon_Website) | 🔷 TypeScript | Full-stack salon booking platform for Vero Salon — Next.js 16, TypeScript, Supabase & Tailwind v4. Online b… |
 | [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun Sri Lankan gaming crew, built with Next.js, Supabase, Prisma, YouTube… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
