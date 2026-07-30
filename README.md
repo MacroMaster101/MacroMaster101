@@ -205,10 +205,10 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
+| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
 | [**Vero_Saloon_Website**](https://github.com/MacroMaster101/Vero_Saloon_Website) | 🔷 TypeScript | Full-stack salon booking platform for Vero Salon — Next.js 16, TypeScript, Supabase & Tailwind v4. Online b… |
 | [**weekly-report-dashboard**](https://github.com/MacroMaster101/weekly-report-dashboard) | 🔷 TypeScript | A full-stack weekly report management system built with Next.js, Prisma, and PostgreSQL. It allows team mem… |
 | [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun Sri Lankan gaming crew, built with Next.js, Supabase, Prisma, YouTube… |
-| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
 | [**Stremio_Discord_Rich_Presence**](https://github.com/MacroMaster101/Stremio_Discord_Rich_Presence) | 🟨 JavaScript | 🍿 Lightweight Windows tray app that shows what you're watching on Stremio as Discord Rich Presence — with… |
 
 <!-- RECENT-REPOS:END -->
