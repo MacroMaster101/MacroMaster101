@@ -206,8 +206,8 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 | Repository | Language | Description |
 | :--- | :--- | :--- |
 | [**Mazora-Network**](https://github.com/MacroMaster101/Mazora-Network) | 🔷 TypeScript | 🎮 The official Mazora Network community platform — a production-ready Minecraft server website with live s… |
-| [**Vero_Saloon_Website**](https://github.com/MacroMaster101/Vero_Saloon_Website) | 🔷 TypeScript | Full-stack salon booking platform for Vero Salon — Next.js 16, TypeScript, Supabase & Tailwind v4. Online b… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project f… |
+| [**Vero_Saloon_Website**](https://github.com/MacroMaster101/Vero_Saloon_Website) | 🔷 TypeScript | Full-stack salon booking platform for Vero Salon — Next.js 16, TypeScript, Supabase & Tailwind v4. Online b… |
 | [**job-hunting-tracker**](https://github.com/MacroMaster101/job-hunting-tracker) | 🟨 JavaScript | A modern, zero-backend Job Hunting CRM & Application Tracker built with HTML5, CSS3, Vanilla JS, SheetJS Ex… |
 | [**weekly-report-dashboard**](https://github.com/MacroMaster101/weekly-report-dashboard) | 🔷 TypeScript | A full-stack weekly report management system built with Next.js, Prisma, and PostgreSQL. It allows team mem… |
 
