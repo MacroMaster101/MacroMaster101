@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=followers">
-  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-3-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follower count"/><!-- FOLLOWERS-BADGE:END -->
+  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-4-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follower count"/><!-- FOLLOWERS-BADGE:END -->
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
@@ -211,11 +211,11 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
+| [**discord_music_bot**](https://github.com/MacroMaster101/discord_music_bot) | 🟨 JavaScript | 🎵 Self-hosted Discord music bot with yt-dlp playback, interactive controls, queue management, a web… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Personal portfolio built with React 19, TypeScript, Vite & Tailwind CSS. Features live GitHub API project… |
 | [**job-hunting-tracker**](https://github.com/MacroMaster101/job-hunting-tracker) | 🟨 JavaScript | A modern, zero-backend Job Hunting CRM & Application Tracker built with HTML5, CSS3, Vanilla JS, SheetJS… |
 | [**weekly-report-dashboard**](https://github.com/MacroMaster101/weekly-report-dashboard) | 🔷 TypeScript | A full-stack weekly report management system built with Next.js, Prisma, and PostgreSQL. It allows team… |
 | [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun Sri Lankan gaming crew, built with Next.js, Supabase, Prisma,… |
-| [**Stremio_Discord_Rich_Presence**](https://github.com/MacroMaster101/Stremio_Discord_Rich_Presence) | 🟨 JavaScript | 🍿 Lightweight Windows tray app that shows what you're watching on Stremio as Discord Rich Presence — with… |
 
 <!-- RECENT-REPOS:END -->
 
@@ -260,12 +260,12 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <b>Most Used Languages</b>
 
 <!-- LANGS:START -->
-<img src="https://img.shields.io/badge/TypeScript-31.6%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 31.6 percent"/>
-<img src="https://img.shields.io/badge/JavaScript-27.0%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 27.0 percent"/>
+<img src="https://img.shields.io/badge/TypeScript-31.5%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 31.5 percent"/>
+<img src="https://img.shields.io/badge/JavaScript-26.9%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 26.9 percent"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-18.5%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 18.5 percent"/>
-<img src="https://img.shields.io/badge/CSS-13.5%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 13.5 percent"/>
+<img src="https://img.shields.io/badge/CSS-13.6%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 13.6 percent"/>
 <img src="https://img.shields.io/badge/Java-5.3%25-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java: 5.3 percent"/>
-<img src="https://img.shields.io/badge/HTML-2.4%25-E34F26?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML: 2.4 percent"/>
+<img src="https://img.shields.io/badge/HTML-2.5%25-E34F26?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML: 2.5 percent"/>
 <!-- LANGS:END -->
 
 </div>
