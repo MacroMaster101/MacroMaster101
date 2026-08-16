@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -20,10 +24,19 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Generate Latest Activity section
+      - name: Run unit tests
+        run: node --test scripts/*.test.mjs scripts/lib/*.test.mjs
+
+      # The default GITHUB_TOKEN cannot always read a user's
+      # contributionsCollection over GraphQL. If the run logs
+      # "WARN contributions:", the streak and commit badges will stay empty —
+      # add a personal access token with `read:user` as a repository secret
+      # named PROFILE_TOKEN and it is picked up here automatically, with no
+      # change to this file.
+      - name: Update profile README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/update-recent-repos.mjs
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node scripts/update-profile.mjs
 
       - name: Commit changes if any
         run: |

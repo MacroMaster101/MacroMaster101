@@ -20,9 +20,14 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MacroMaster101
+          # Colours are baked in at generation time, so the profile's purple
+          # accent (#6e40c9) and its lighter tint (#8b6fd6) are set here rather
+          # than in README.md. `%23` is an encoded `#` — a raw one would be
+          # read as a URL fragment delimiter.
+          # color_dots runs empty -> full; the first value is the empty cell.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%236e40c9&color_dots=%23ebedf0,%23d5c9f0,%23b39ddb,%238b6fd6,%236e40c9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%238b6fd6&color_dots=%23161b22,%232d1f47,%23452e6b,%236e40c9,%238b6fd6
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
