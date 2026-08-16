@@ -150,7 +150,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 </p>
 </td>
 <td width="50%" valign="top">
-<p><b>💇 <a href="https://github.com/MacroMaster101/Vero_Saloon_Website">Vero Saloon Website</a></b></p>
+<p><b>💇 <a href="https://github.com/MacroMaster101/Vero_Salon_Website">Vero Salon Website</a></b></p>
 <p>Salon booking platform for a real client: Next.js 16, Supabase auth and online appointments, covered by Vitest unit tests and Playwright end-to-end suites.</p>
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -228,7 +228,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 - 🎮 **[Just For Fun — Gaming Hub](https://github.com/MacroMaster101/just-for-fun-website)** — Next.js community hub for a Sri Lankan gaming crew, with live YouTube sync and admin tools.
 - 🎵 **[Discord Music Bot](https://github.com/MacroMaster101/discord_music_bot)** — Self-hostable yt-dlp music bot: search, queue, loop, shuffle and button controls. Docker-ready.
 - 🖥️ **[Stremio Discord Rich Presence](https://github.com/MacroMaster101/Stremio_Discord_Rich_Presence)** — Electron desktop app surfacing what you're watching in Stremio as Discord Rich Presence.
-- 💇 **[Saloon Vero App](https://github.com/MacroMaster101/Saloon_Vero_App)** — React Native + Expo client app with Supabase auth, image uploads and push notifications.
+- 💇 **[Salon Vero App](https://github.com/MacroMaster101/Salon_Vero_App)** — React Native + Expo client app with Supabase auth, image uploads and push notifications.
 - 🛍️ **[Thilak Products Website](https://github.com/MacroMaster101/Thilak_Products_Website)** — Next.js storefront on Prisma and Postgres with transactional email and Playwright coverage.
 - 📊 **[Weekly Report Dashboard](https://github.com/MacroMaster101/weekly-report-dashboard)** — Next.js + Prisma + Neon report management with NextAuth and Recharts.
 - 💼 **[Portfolio V2](https://github.com/MacroMaster101/kavisha_portfolio-V2)** — React 19, TypeScript, Vite and Tailwind, with a live GitHub project feed and Framer Motion.
