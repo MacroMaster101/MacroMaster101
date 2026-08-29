@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=followers">
-  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-5-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follower count"/><!-- FOLLOWERS-BADGE:END -->
+  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-6-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follower count"/><!-- FOLLOWERS-BADGE:END -->
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
@@ -249,9 +249,9 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-1-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 1"/>
 <img src="https://img.shields.io/badge/Public_Repos-21-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 21"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-838-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 838"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-842-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 842"/>
 <img src="https://img.shields.io/badge/Pull_Requests-159-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 159"/>
-<img src="https://img.shields.io/badge/Current_Streak-13-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 13"/>
+<img src="https://img.shields.io/badge/Current_Streak-1-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 1"/>
 <img src="https://img.shields.io/badge/Longest_Streak-13-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 13"/>
 <!-- STATS:END -->
 
