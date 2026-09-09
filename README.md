@@ -249,9 +249,9 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
 <img src="https://img.shields.io/badge/Public_Repos-23-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 23"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-957-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 957"/>
-<img src="https://img.shields.io/badge/Pull_Requests-183-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 183"/>
-<img src="https://img.shields.io/badge/Current_Streak-5-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 5"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-968-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 968"/>
+<img src="https://img.shields.io/badge/Pull_Requests-188-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 188"/>
+<img src="https://img.shields.io/badge/Current_Streak-6-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 6"/>
 <img src="https://img.shields.io/badge/Longest_Streak-13-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 13"/>
 <!-- STATS:END -->
 
@@ -260,7 +260,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <b>Most Used Languages</b>
 
 <!-- LANGS:START -->
-<img src="https://img.shields.io/badge/TypeScript-35.4%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 35.4 percent"/>
+<img src="https://img.shields.io/badge/TypeScript-35.7%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 35.7 percent"/>
 <img src="https://img.shields.io/badge/JavaScript-26.1%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 26.1 percent"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-16.7%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 16.7 percent"/>
 <img src="https://img.shields.io/badge/CSS-12.9%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 12.9 percent"/>
