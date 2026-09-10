@@ -18,7 +18,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
-  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-23-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Public repository count"/><!-- REPOS-BADGE:END -->
+  <!-- REPOS-BADGE:START --><img src="https://img.shields.io/badge/REPOS-24-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Public repository count"/><!-- REPOS-BADGE:END -->
 </a>
 
 <br/>
@@ -211,11 +211,11 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
+| [**valheim-auto-cleanup**](https://github.com/MacroMaster101/valheim-auto-cleanup) | • C# | Safe, server-side automatic cleanup of old dropped items for Valheim dedicated servers. Vanilla clients… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Interactive software engineering & AI portfolio built with React 19, TypeScript, Vite, Tailwind CSS and… |
 | [**discord_music_bot**](https://github.com/MacroMaster101/discord_music_bot) | 🟨 JavaScript | 🎵 Self-hosted Discord music bot with yt-dlp playback, interactive controls, queue management, a web… |
 | [**discord-j4fn-server-bot**](https://github.com/MacroMaster101/discord-j4fn-server-bot) | 🐍 Python | 🤖 Official J4FN Discord Server Moderation Bot & Web Portal. Features automated anti-spam, member warnings… |
 | [**job-hunting-tracker**](https://github.com/MacroMaster101/job-hunting-tracker) | 🟨 JavaScript | A modern, zero-backend Job Hunting CRM & Application Tracker built with HTML5, CSS3, Vanilla JS, SheetJS… |
-| [**weekly-report-dashboard**](https://github.com/MacroMaster101/weekly-report-dashboard) | 🔷 TypeScript | A full-stack weekly report management system built with Next.js, Prisma, and PostgreSQL. It allows team… |
 
 <!-- RECENT-REPOS:END -->
 
@@ -248,10 +248,10 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
-<img src="https://img.shields.io/badge/Public_Repos-23-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 23"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-968-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 968"/>
+<img src="https://img.shields.io/badge/Public_Repos-24-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 24"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-971-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 971"/>
 <img src="https://img.shields.io/badge/Pull_Requests-188-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 188"/>
-<img src="https://img.shields.io/badge/Current_Streak-6-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 6"/>
+<img src="https://img.shields.io/badge/Current_Streak-8-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 8"/>
 <img src="https://img.shields.io/badge/Longest_Streak-13-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 13"/>
 <!-- STATS:END -->
 
@@ -260,11 +260,11 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <b>Most Used Languages</b>
 
 <!-- LANGS:START -->
-<img src="https://img.shields.io/badge/TypeScript-35.7%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 35.7 percent"/>
-<img src="https://img.shields.io/badge/JavaScript-26.1%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 26.1 percent"/>
-<img src="https://img.shields.io/badge/Jupyter_Notebook-16.7%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 16.7 percent"/>
-<img src="https://img.shields.io/badge/CSS-12.9%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 12.9 percent"/>
-<img src="https://img.shields.io/badge/Java-4.8%25-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java: 4.8 percent"/>
+<img src="https://img.shields.io/badge/TypeScript-35.2%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 35.2 percent"/>
+<img src="https://img.shields.io/badge/JavaScript-25.7%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 25.7 percent"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-16.5%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 16.5 percent"/>
+<img src="https://img.shields.io/badge/CSS-12.7%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 12.7 percent"/>
+<img src="https://img.shields.io/badge/Java-4.7%25-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java: 4.7 percent"/>
 <img src="https://img.shields.io/badge/HTML-1.8%25-E34F26?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML: 1.8 percent"/>
 <!-- LANGS:END -->
 
