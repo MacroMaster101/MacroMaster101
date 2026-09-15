@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=MacroMaster101&style=for-the-badge&color=6e40c9&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=followers">
-  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-5-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follower count"/><!-- FOLLOWERS-BADGE:END -->
+  <!-- FOLLOWERS-BADGE:START --><img src="https://img.shields.io/badge/FOLLOWERS-4-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follower count"/><!-- FOLLOWERS-BADGE:END -->
 </a>
 &nbsp;
 <a href="https://github.com/MacroMaster101?tab=repositories">
@@ -211,8 +211,8 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
-| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Interactive software engineering & AI portfolio built with React 19, TypeScript, Vite, Tailwind CSS and… |
 | [**valheim-auto-cleanup**](https://github.com/MacroMaster101/valheim-auto-cleanup) | • C# | Safe, server-side automatic cleanup of old dropped items for Valheim dedicated servers. Vanilla clients… |
+| [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Interactive software engineering & AI portfolio built with React 19, TypeScript, Vite, Tailwind CSS and… |
 | [**discord_music_bot**](https://github.com/MacroMaster101/discord_music_bot) | 🟨 JavaScript | 🎵 Self-hosted Discord music bot with yt-dlp playback, interactive controls, queue management, a web… |
 | [**discord-j4fn-server-bot**](https://github.com/MacroMaster101/discord-j4fn-server-bot) | 🐍 Python | 🤖 Official J4FN Discord Server Moderation Bot & Web Portal. Features automated anti-spam, member warnings… |
 | [**job-hunting-tracker**](https://github.com/MacroMaster101/job-hunting-tracker) | 🟨 JavaScript | A modern, zero-backend Job Hunting CRM & Application Tracker built with HTML5, CSS3, Vanilla JS, SheetJS… |
@@ -249,9 +249,9 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
 <img src="https://img.shields.io/badge/Public_Repos-24-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 24"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-979-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 979"/>
-<img src="https://img.shields.io/badge/Pull_Requests-191-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 191"/>
-<img src="https://img.shields.io/badge/Current_Streak-0-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 0"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-989-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 989"/>
+<img src="https://img.shields.io/badge/Pull_Requests-195-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 195"/>
+<img src="https://img.shields.io/badge/Current_Streak-2-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 2"/>
 <img src="https://img.shields.io/badge/Longest_Streak-13-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 13"/>
 <!-- STATS:END -->
 
