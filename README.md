@@ -247,11 +247,11 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <div align="center">
 
 <!-- STATS:START -->
-<img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
+<img src="https://img.shields.io/badge/Total_Stars-4-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 4"/>
 <img src="https://img.shields.io/badge/Public_Repos-26-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 26"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-1427-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1427"/>
-<img src="https://img.shields.io/badge/Pull_Requests-271-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 271"/>
-<img src="https://img.shields.io/badge/Current_Streak-8-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 8"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-1436-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1436"/>
+<img src="https://img.shields.io/badge/Pull_Requests-277-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 277"/>
+<img src="https://img.shields.io/badge/Current_Streak-9-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 9"/>
 <img src="https://img.shields.io/badge/Longest_Streak-13-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 13"/>
 <!-- STATS:END -->
 
@@ -263,7 +263,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <img src="https://img.shields.io/badge/TypeScript-40.0%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 40.0 percent"/>
 <img src="https://img.shields.io/badge/JavaScript-23.4%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 23.4 percent"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-14.7%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 14.7 percent"/>
-<img src="https://img.shields.io/badge/CSS-12.3%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 12.3 percent"/>
+<img src="https://img.shields.io/badge/CSS-12.4%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 12.4 percent"/>
 <img src="https://img.shields.io/badge/Java-4.2%25-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java: 4.2 percent"/>
 <img src="https://img.shields.io/badge/HTML-1.9%25-E34F26?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML: 1.9 percent"/>
 <!-- LANGS:END -->
