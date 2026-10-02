@@ -211,11 +211,11 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
+| [**Brakmasra**](https://github.com/MacroMaster101/Brakmasra) | 🔷 TypeScript | Official BRAKMASRA merchandise storefront. A high-performance, dark-luxury e-commerce platform built with… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Interactive software engineering & AI portfolio built with React 19, TypeScript, Vite, Tailwind CSS and… |
 | [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun (J4FN) Sri Lankan gaming crew: live YouTube feed, squad profiles,… |
 | [**Stremio_Discord_Rich_Presence**](https://github.com/MacroMaster101/Stremio_Discord_Rich_Presence) | 🟨 JavaScript | 🍿 Lightweight Windows tray app that shows what you're watching on Stremio as Discord Rich Presence — with… |
 | [**astrapair**](https://github.com/MacroMaster101/astrapair) | • | AstraPair — a couples-first astrology platform for birth charts, compatibility insights, and AI-powered… |
-| [**Brakmasra**](https://github.com/MacroMaster101/Brakmasra) | 🔷 TypeScript | Official BRAKMASRA merchandise storefront. A high-performance, dark-luxury e-commerce platform built with… |
 
 <!-- RECENT-REPOS:END -->
 
@@ -249,9 +249,9 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-4-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 4"/>
 <img src="https://img.shields.io/badge/Public_Repos-26-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 26"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-1436-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1436"/>
-<img src="https://img.shields.io/badge/Pull_Requests-277-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 277"/>
-<img src="https://img.shields.io/badge/Current_Streak-9-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 9"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-1448-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1448"/>
+<img src="https://img.shields.io/badge/Pull_Requests-281-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 281"/>
+<img src="https://img.shields.io/badge/Current_Streak-11-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 11"/>
 <img src="https://img.shields.io/badge/Longest_Streak-13-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 13"/>
 <!-- STATS:END -->
 
