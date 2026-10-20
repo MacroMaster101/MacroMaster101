@@ -38,13 +38,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/update-profile.mjs
 
+      # assets/ holds the generated contribution-graph SVGs, so it must be
+      # staged alongside README.md or the chart would never reach the profile.
       - name: Commit changes if any
         run: |
-          if [[ -n "$(git status --porcelain README.md)" ]]; then
+          if [[ -n "$(git status --porcelain README.md assets)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: auto-update README Latest Activity"
+            git add README.md assets
+            git commit -m "chore: auto-update README and contribution graph"
             git push
           else
             echo "No changes to commit."
