@@ -211,11 +211,11 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
+| [**astrapair**](https://github.com/MacroMaster101/astrapair) | 🔷 TypeScript | AstraPair — a couples-first astrology platform for birth charts, compatibility insights, and AI-powered… |
+| [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun (J4FN) Sri Lankan gaming crew: live YouTube feed, squad profiles,… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Interactive software engineering & AI portfolio built with React 19, TypeScript, Vite, Tailwind CSS and… |
 | [**discord-youtube-status-bot**](https://github.com/MacroMaster101/discord-youtube-status-bot) | 🌐 HTML | Discord bot that posts a YouTube channel's uploads and live streams, shows live channel stats in its… |
 | [**Brakmasra**](https://github.com/MacroMaster101/Brakmasra) | 🔷 TypeScript | Official BRAKMASRA merchandise storefront. A high-performance, dark-luxury e-commerce platform built with… |
-| [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun (J4FN) Sri Lankan gaming crew: live YouTube feed, squad profiles,… |
-| [**IT24101927_Lab11_Project**](https://github.com/MacroMaster101/IT24101927_Lab11_Project) | • C# | SE3090 Lab 11 - CampusEats React frontend, ASP.NET Core API, CI and cloud deployment |
 
 <!-- RECENT-REPOS:END -->
 
@@ -249,9 +249,9 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
 <img src="https://img.shields.io/badge/Public_Repos-29-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 29"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-1677-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1677"/>
-<img src="https://img.shields.io/badge/Pull_Requests-354-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 354"/>
-<img src="https://img.shields.io/badge/Current_Streak-11-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 11"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-1707-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1707"/>
+<img src="https://img.shields.io/badge/Pull_Requests-359-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 359"/>
+<img src="https://img.shields.io/badge/Current_Streak-12-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 12"/>
 <img src="https://img.shields.io/badge/Longest_Streak-15-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 15"/>
 <!-- STATS:END -->
 
@@ -260,12 +260,12 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <b>Most Used Languages</b>
 
 <!-- LANGS:START -->
-<img src="https://img.shields.io/badge/TypeScript-37.1%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 37.1 percent"/>
-<img src="https://img.shields.io/badge/JavaScript-22.6%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 22.6 percent"/>
-<img src="https://img.shields.io/badge/CSS-12.5%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 12.5 percent"/>
-<img src="https://img.shields.io/badge/Jupyter_Notebook-12.3%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 12.3 percent"/>
-<img src="https://img.shields.io/badge/C%23-4.1%25-8b949e?style=for-the-badge&labelColor=0d1117" alt="C#: 4.1 percent"/>
-<img src="https://img.shields.io/badge/Java-3.5%25-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java: 3.5 percent"/>
+<img src="https://img.shields.io/badge/TypeScript-41.7%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 41.7 percent"/>
+<img src="https://img.shields.io/badge/JavaScript-20.9%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 20.9 percent"/>
+<img src="https://img.shields.io/badge/CSS-11.6%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 11.6 percent"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-11.3%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 11.3 percent"/>
+<img src="https://img.shields.io/badge/C%23-3.7%25-8b949e?style=for-the-badge&labelColor=0d1117" alt="C#: 3.7 percent"/>
+<img src="https://img.shields.io/badge/Java-3.2%25-ED8B00?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java: 3.2 percent"/>
 <!-- LANGS:END -->
 
 </div>
