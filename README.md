@@ -211,10 +211,10 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
+| [**Brakmasra**](https://github.com/MacroMaster101/Brakmasra) | 🔷 TypeScript | Official BRAKMASRA merchandise storefront. A high-performance, dark-luxury e-commerce platform built with… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Interactive software engineering & AI portfolio built with React 19, TypeScript, Vite, Tailwind CSS and… |
 | [**discord-j4fn-server-bot**](https://github.com/MacroMaster101/discord-j4fn-server-bot) | 🐍 Python | 🤖 Official J4FN Discord Server Moderation Bot & Web Portal. Features automated anti-spam, member warnings… |
 | [**pacman-search-visualizer**](https://github.com/MacroMaster101/pacman-search-visualizer) | 🐍 Python | 🟡 Watch DFS, BFS, UCS and A* search the Pac-Man maze, live in your browser. Our CS188 Python search code… |
-| [**Brakmasra**](https://github.com/MacroMaster101/Brakmasra) | 🔷 TypeScript | Official BRAKMASRA merchandise storefront. A high-performance, dark-luxury e-commerce platform built with… |
 | [**astrapair**](https://github.com/MacroMaster101/astrapair) | 🔷 TypeScript | AstraPair — a couples-first astrology platform for birth charts, compatibility insights, and AI-powered… |
 
 <!-- RECENT-REPOS:END -->
@@ -249,10 +249,10 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
 <img src="https://img.shields.io/badge/Public_Repos-29-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 29"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-1745-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1745"/>
-<img src="https://img.shields.io/badge/Pull_Requests-378-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 378"/>
-<img src="https://img.shields.io/badge/Current_Streak-15-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 15"/>
-<img src="https://img.shields.io/badge/Longest_Streak-15-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 15"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-1758-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1758"/>
+<img src="https://img.shields.io/badge/Pull_Requests-387-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 387"/>
+<img src="https://img.shields.io/badge/Current_Streak-16-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 16"/>
+<img src="https://img.shields.io/badge/Longest_Streak-16-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 16"/>
 <!-- STATS:END -->
 
 <br/>
@@ -260,7 +260,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <b>Most Used Languages</b>
 
 <!-- LANGS:START -->
-<img src="https://img.shields.io/badge/TypeScript-41.3%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 41.3 percent"/>
+<img src="https://img.shields.io/badge/TypeScript-41.5%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 41.5 percent"/>
 <img src="https://img.shields.io/badge/JavaScript-20.9%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 20.9 percent"/>
 <img src="https://img.shields.io/badge/CSS-11.6%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 11.6 percent"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-11.1%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 11.1 percent"/>
