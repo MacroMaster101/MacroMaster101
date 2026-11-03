@@ -211,11 +211,11 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 
 | Repository | Language | Description |
 | :--- | :--- | :--- |
-| [**discord_music_bot**](https://github.com/MacroMaster101/discord_music_bot) | 🟨 JavaScript | 🎵 Self-hosted Discord music bot with yt-dlp playback, interactive controls, queue management, a web… |
+| [**astrapair**](https://github.com/MacroMaster101/astrapair) | 🔷 TypeScript | AstraPair — a couples-first astrology platform for birth charts, compatibility insights, and AI-powered… |
 | [**kavisha_portfolio-V2**](https://github.com/MacroMaster101/kavisha_portfolio-V2) | 🔷 TypeScript | Interactive software engineering & AI portfolio built with React 19, TypeScript, Vite, Tailwind CSS and… |
-| [**just-for-fun-website**](https://github.com/MacroMaster101/just-for-fun-website) | 🔷 TypeScript | Official web hub for the Just For Fun (J4FN) Sri Lankan gaming crew: live YouTube feed, squad profiles,… |
-| [**Brakmasra**](https://github.com/MacroMaster101/Brakmasra) | 🔷 TypeScript | Official BRAKMASRA merchandise storefront. A high-performance, dark-luxury e-commerce platform built with… |
 | [**discord-youtube-status-bot**](https://github.com/MacroMaster101/discord-youtube-status-bot) | 🌐 HTML | Discord bot that posts a YouTube channel's uploads and live streams, shows live channel stats in its… |
+| [**discord-j4fn-server-bot**](https://github.com/MacroMaster101/discord-j4fn-server-bot) | 🐍 Python | 🤖 Official J4FN Discord Server Moderation Bot & Web Portal. Features automated anti-spam, member warnings… |
+| [**discord_music_bot**](https://github.com/MacroMaster101/discord_music_bot) | 🟨 JavaScript | 🎵 Self-hosted Discord music bot with yt-dlp playback, interactive controls, queue management, a web… |
 
 <!-- RECENT-REPOS:END -->
 
@@ -249,9 +249,9 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
 <img src="https://img.shields.io/badge/Public_Repos-29-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 29"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-1835-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1835"/>
-<img src="https://img.shields.io/badge/Pull_Requests-441-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 441"/>
-<img src="https://img.shields.io/badge/Current_Streak-4-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 4"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-1866-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1866"/>
+<img src="https://img.shields.io/badge/Pull_Requests-465-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 465"/>
+<img src="https://img.shields.io/badge/Current_Streak-5-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 5"/>
 <img src="https://img.shields.io/badge/Longest_Streak-20-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 20"/>
 <!-- STATS:END -->
 
@@ -260,7 +260,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <b>Most Used Languages</b>
 
 <!-- LANGS:START -->
-<img src="https://img.shields.io/badge/TypeScript-42.4%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 42.4 percent"/>
+<img src="https://img.shields.io/badge/TypeScript-42.3%25-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="TypeScript: 42.3 percent"/>
 <img src="https://img.shields.io/badge/JavaScript-20.7%25-F7DF1E?style=for-the-badge&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript: 20.7 percent"/>
 <img src="https://img.shields.io/badge/CSS-11.5%25-1572B6?style=for-the-badge&labelColor=0d1117&logo=css&logoColor=white" alt="CSS: 11.5 percent"/>
 <img src="https://img.shields.io/badge/Jupyter_Notebook-10.7%25-F37626?style=for-the-badge&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter Notebook: 10.7 percent"/>
