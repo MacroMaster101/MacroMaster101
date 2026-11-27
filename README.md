@@ -249,10 +249,10 @@ fun_fact: "I turn coffee into code and bugs into features ☕🐛"
 <!-- STATS:START -->
 <img src="https://img.shields.io/badge/Total_Stars-3-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Total stars earned across repositories: 3"/>
 <img src="https://img.shields.io/badge/Public_Repos-29-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Public repository count: 29"/>
-<img src="https://img.shields.io/badge/Commits_(Year)-1932-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1932"/>
-<img src="https://img.shields.io/badge/Pull_Requests-513-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 513"/>
-<img src="https://img.shields.io/badge/Current_Streak-28-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 28"/>
-<img src="https://img.shields.io/badge/Longest_Streak-28-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 28"/>
+<img src="https://img.shields.io/badge/Commits_(Year)-1933-6e40c9?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits contributed this year: 1933"/>
+<img src="https://img.shields.io/badge/Pull_Requests-514-6e40c9?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Pull requests opened: 514"/>
+<img src="https://img.shields.io/badge/Current_Streak-29-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Current contribution streak in days: 29"/>
+<img src="https://img.shields.io/badge/Longest_Streak-29-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Longest contribution streak in days: 29"/>
 <!-- STATS:END -->
 
 <br/>
